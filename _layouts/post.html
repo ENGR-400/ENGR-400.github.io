@@ -7,10 +7,11 @@
         </div>
         <div class="col-md-9">
           <div class="article">
-            <div class="well">
-                <h1><a href="{{ site.baseurl}}{{ page.url }}">{{ page.date | date: "%b %-d, %Y" }} - {{ page.title }}</a></h1>
+            <div class="well" style="text-align:center">
+                <h1><a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></h1>
+				<h2>{{ page.date | date: "%b %-d, %Y" }}</h2>
 			<div>
-			<span class="author">Written by: <a href="{{ page.author_url }}">{{ page.post_author }}</a>
+			<span class="author"><a href="{{ page.author_url }}">{{ page.post_author }}</a>
 			{% if page.post_author2 != null %}
                 , <a href=" {{ page.author_url2 }}">{{ page.post_author2 }}</a>
             {% endif %}
@@ -25,6 +26,10 @@
             {% endif %}
 			</span>
 			</div>
+			
+            <div class="post-content">
+            {{ content }}
+            </div>
 			<div>
 			<span class="author">Tags: 
 			{% for tag in page.tags %}
@@ -32,12 +37,6 @@
 			{% endfor %}
 			</span>
 			</div>
-            {% if site.comments == true and page.comments == true and site.disqus != '' %}
-                <p class="author"><a href="#disqus_thread">Comments</a></p>
-            {% endif %}
-            <div class="post-content">
-            {{ content }}
-            </div>
             {% if page.comments %}
             <div id="disqus_thread">
                 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
