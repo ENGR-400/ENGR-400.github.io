@@ -12,7 +12,9 @@ comments: true
 <!-- This is for your headshot. 
 <div style="text-align:center">-->
 <img align="right" width="250px" src="/images/date-name.png" alt="Jill J. Jones"/>  
+
 # Jill J. Jones  
+## "Talk Title"
 10:10 am  
 Friday, February 22nd  
 322 Fryklund Hall  
