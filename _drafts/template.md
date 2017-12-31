@@ -2,7 +2,7 @@
 title: "Talk title goes here"
 tags: [relevant, tags]
 category: lecture
-permalink: 2017/01/talk-title-goes-here
+permalink: 2018/01/talk-title-goes-here
 post_author: Jill J. Jones
 author_url: http://www.example.com
 layout: post
@@ -11,9 +11,11 @@ comments: true
 
 <!-- This is for your headshot. -->
 <div style="text-align:center">
-<img src="/images/date-name.jpg" />
-9:00 am
-322 Fryklund Hall
+<img align="right" width="250px" src="/images/date-name.png" alt="Jill J. Jones"/>
+## Jill J. Jones  
+10:10 am  
+Friday, February 22nd  
+322 Fryklund Hall  
 </div>
 
 
