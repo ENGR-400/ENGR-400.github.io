@@ -12,10 +12,7 @@ comments: true
 <!-- This is for your headshot. -->
 <img align="right" width="250px" src="/images/date-name.png" alt="Bryony DuPont"/>  
 
-# Bryony DuPont   
-## "Talk Title"
 10:10 am  
-Friday, March 2nd  
 322 Fryklund Hall  
 
 
