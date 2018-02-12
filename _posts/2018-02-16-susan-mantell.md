@@ -1,5 +1,5 @@
 ---
-title: "Talk title goes here"
+title: "Debonding in Dental Composites"
 tags: [mechanics, dental, composites, FEA]
 category: lecture
 permalink: 2018/02/debonding-in-dental-composites
