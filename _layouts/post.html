@@ -9,7 +9,7 @@
           <div class="article">
             <div class="well">
                 <h1><a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></h1>
-				<h2>{{ page.date | date: "%b %-d, %Y" }}</h2>
+				
 			<div>
 			<span class="author"><a href="{{ page.author_url }}">{{ page.post_author }}</a>
 			{% if page.post_author2 != null %}
@@ -26,6 +26,7 @@
             {% endif %}
 			</span>
 			</div>
+			<h2>{{ page.date | date: "%b %-d, %Y" }}</h2>
 			
             <div class="post-content">
             {{ content }}

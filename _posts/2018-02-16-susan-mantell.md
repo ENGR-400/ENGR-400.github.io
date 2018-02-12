@@ -12,10 +12,7 @@ comments: true
 <!-- This is for your headshot. -->
 <img align="right" width="250px" src="/images/181602-mantell.jpg" alt="Susan C. Mantell"/>  
 
-# Susan C. Mantell  
-## "Debonding in Dental Composites"
 10:10 am  
-Friday, February 16th  
 322 Fryklund Hall  
 
 
