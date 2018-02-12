@@ -15,6 +15,16 @@ body {
     color: #ee4444;
 }
 
+.well h1 {
+    color: #ee4444;
+    font-size: 32px;
+}
+
+.well h2 {
+    color: #317eac;
+    font-size: 24px;
+}
+
 .sidebar h1 {
     color: #ee4444;
     font-size: 1.3em;
@@ -35,16 +45,6 @@ body {
 
 .container-left {
     margin: 0;
-}
-
-.well h1 {
-    color: #ee4444;
-    font-size: 32px;
-}
-
-.well h2 {
-    color: #317eac;
-    font-size: 24px;
 }
 
 .author {
