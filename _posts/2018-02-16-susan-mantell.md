@@ -3,7 +3,7 @@ title: "Debonding in Dental Composites"
 tags: [mechanics, dental, composites, FEA]
 category: lecture
 permalink: 2018/02/debonding-in-dental-composites
-post_author: Susan C. Mantell
+post_author: Dr. Susan C. Mantell
 author_url: http://www.me.umn.edu/people/mantell.shtml
 layout: post
 comments: true
