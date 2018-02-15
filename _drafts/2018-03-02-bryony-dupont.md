@@ -3,7 +3,7 @@ title: "Talk title goes here"
 tags: [relevant, tags]
 category: lecture
 permalink: 2018/03/talk-title-goes-here
-post_author: Bryony DuPont
+post_author: Dr. Bryony DuPont
 author_url: http://bryonydupont.com/
 layout: post
 comments: true
