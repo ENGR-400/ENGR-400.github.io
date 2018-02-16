@@ -24,3 +24,7 @@ In dental restorations, debonding between the tooth and restoration causes criti
 # Bio
 
 Susan Mantell is Professor of Mechanical Engineering at the University of Minnesota. Prof. Mantell received her BS and PhD degrees from Stanford University. Her current research focus is on applications of polymers and polymer composites for engineering structures. Prof. Mantell is the recipient of several best paper awards from the ASME and has received the NSF Young Investigator Award.
+
+# Lecture archive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zD0_krMHzxc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
