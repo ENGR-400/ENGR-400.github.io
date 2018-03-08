@@ -2,15 +2,15 @@
 title: "Talk title goes here"
 tags: [relevant, tags]
 category: lecture
-permalink: 2018/03/talk-title-goes-here
-post_author: Dr. Abhishek Srivastava
+permalink: 2018/04/talk-title-goes-here
+post_author: Dr. Rishabh Srivastava
 author_url: http://example.com/
 layout: post
 comments: true
 ---
 
 <!-- This is for your headshot. -->
-<img align="right" width="250px" src="/images/date-name.png" alt="Abhishek Srivastava"/>  
+<img align="right" width="250px" src="/images/date-name.png" alt="Rishabh Srivastava"/>  
 
 10:10 am  
 322 Fryklund Hall  
