@@ -10,7 +10,7 @@ comments: true
 ---
 
 <!-- This is for your headshot. -->
-<img align="right" width="375px" src="/images/180420-kersh.jpg" alt="Dr. Mariana Kersh"/>  
+<img align="right" width="375px" margin="5px" src="/images/180420-kersh.jpg" alt="Dr. Mariana Kersh"/>  
 
 10:10 am  
 322 Fryklund Hall  
