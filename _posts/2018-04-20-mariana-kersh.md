@@ -26,3 +26,7 @@ In this talk, I will present our recent efforts to understand the three-dimensio
 # Bio
 
 Mariana Kersh is an Assistant Professor in the Department of Mechanical Science and Engineering at The University of Illinois at Urbana-Champaign and Director of the Tissue Biomechanics Laboratory. She holds degrees in English, Mechanical Engineering and Material Science.  Her research focus is on the structure-mechanical function of orthopedic tissues during development as well as the progression of musculoskeletal diseases.
+
+# Lecture archive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g5tY5gawd2s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
