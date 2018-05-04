@@ -30,3 +30,6 @@ comments: true
 
 Heidi-Lynn Ploeg is an Associate Professor in Mechanical Engineering, at the University of Wisconsin-Madison. Including 10 years at Zimmer, she has 30 years of experience in research and analysis of orthopaedic devices. Over the last 15 years, 47 graduate students have graduated from her lab. Her research interests include studying the nature of bone, bone growth and joint biomechanics.
 
+# Lecture archive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ytvnS0Ogz7g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
