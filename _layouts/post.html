@@ -32,7 +32,7 @@
             {{ content }}
             </div>
 			<div>
-			<span class="author">Tags: 
+			<span class="tags">Tags: 
 			{% for tag in page.tags %}
 			    <a class="codinfox-tag-mark" href="{{ site.baseurl}}/tag/#{{ tag | slugify }}"> {{ tag }} </a>
 			{% endfor %}

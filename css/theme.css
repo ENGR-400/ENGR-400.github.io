@@ -57,4 +57,12 @@ body {
 	font-size: 24px;
 }
 
+.tags {
+    color: #317eac;
+	font-size: 14px;
+}
 
+.tags a {
+    color: #317eac;
+	font-size: 14px;
+}
