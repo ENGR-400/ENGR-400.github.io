@@ -2,21 +2,17 @@
 title: "Talk title goes here"
 tags: [relevant, tags]
 category: lecture
-permalink: 2018/01/talk-title-goes-here
+permalink: 2019/01/talk-title-goes-here
 post_author: Jill J. Jones
 author_url: http://www.example.com
 layout: post
 comments: true
 ---
 
-<!-- This is for your headshot. 
-<div style="text-align:center">-->
-<img align="right" width="250px" src="/images/date-name.png" alt="Jill J. Jones"/>  
+<!-- This is for your headshot. -->
+<img align="right" width="250px" src="/images/190101-lastname.jpg" alt="Name Lastname"/>  
 
-# Jill J. Jones  
-## "Talk Title"
 10:10 am  
-Friday, February 22nd  
 322 Fryklund Hall  
 
 
@@ -31,5 +27,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est lacus, accums
 
 You may add any images you like here. You may also add any links you like below (personal/lab website, relevant research articles, etc.).
 
-![Image example](/images/logo.jpg)
+![Image example](/images/image.jpg)
 
