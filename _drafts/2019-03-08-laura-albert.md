@@ -1,8 +1,8 @@
 ---
-title: "Talk title goes here"
+title: "Protecting critical infrastructure to enhance cyber-security using optimization and analytics"
 tags: [relevant, tags]
 category: lecture
-permalink: 2019/03/talk-title-goes-here
+permalink: 2019/03/protecting-critical-infrastructure-cyber-security
 post_author: Dr. Laura Albert
 author_url: https://punkrockor.com/
 layout: post
@@ -10,7 +10,7 @@ comments: true
 ---
 
 <!-- This is for your headshot. -->
-<img align="right" width="250px" src="/images/190305-alberg.jpg" alt="Laura Albert"/>  
+<img align="right" width="250px" src="/images/190305-albert.jpg" alt="Laura Albert"/>  
 
 10:10 am  
 322 Fryklund Hall  
@@ -19,13 +19,9 @@ comments: true
 
 # Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est lacus, accumsan varius nibh nec, tincidunt feugiat enim. Quisque porttitor quis orci ut varius. Donec mi odio, faucibus vel augue vel, facilisis ultrices nunc. Phasellus et tellus vel dolor scelerisque auctor. Donec malesuada consectetur ligula, at eleifend elit mattis id. Aenean vel neque eget diam venenatis accumsan eu quis dolor. Nullam vel maximus mauris. Suspendisse a fringilla dui, vitae laoreet turpis.
+In this talk, Professor Laura Albert will discuss how to protect critical information technology (IT) infrastructure using industrial and systems engineering methods. Critical IT infrastructure is vulnerable to risks that can be introduced from supply chains, and therefore, there is a need to design plans to mitigate these risks. In this research, we propose new optimization models and network interdiction models to identify a combination of cost-effective mitigations that maximally delays supply chain attacks when there exist multiple adversaries and that capture the interaction between a defender and multiple attackers. We propose network interdiction models for protecting critical infrastructure that prioritizes cost-effective security mitigations to maximally delay adversarial attacks. We consider attacks originating from multiple adversaries, each of which aims to find a “critical path” through the attack surface to complete the corresponding attack as soon as possible.
 
 # Bio
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est lacus, accumsan varius nibh nec, tincidunt feugiat enim. Quisque porttitor quis orci ut varius. Donec mi odio, faucibus vel augue vel, facilisis ultrices nunc. Phasellus et tellus vel dolor scelerisque auctor. Donec malesuada consectetur ligula, at eleifend elit mattis id. Aenean vel neque eget diam venenatis accumsan eu quis dolor. Nullam vel maximus mauris. Suspendisse a fringilla dui, vitae laoreet turpis.
-
-You may add any images you like here. You may also add any links you like below (personal/lab website, relevant research articles, etc.).
-
-![Image example](/images/image.jpg)
+Dr. Laura Albert is the Assistant Dean for Graduate Affairs in the College of Engineering and an Associate Professor of Industrial & Systems Engineering at the University of Wisconsin-Madison. Her research interests are in operations research with a particular focus on applications in homeland security and emergency response. She writes the blog “Punk Rock Operations Research.”
 
