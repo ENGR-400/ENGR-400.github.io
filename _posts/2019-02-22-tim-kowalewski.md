@@ -25,3 +25,6 @@ Surgical robots enjoy widespread adoption.  This provides opportunities to augme
 
 Dr. Kowalewski completed his PhD in electrical engineering at the University of Washington's Biorobotics Lab.  Based on his surgical skill evaluation research, he co-founded CSATS Inc. which was acquired by Johnson & Johnson in April 2018.  Dr. Kowalewski is currently an assistant professor in Mechanical Engineering at the University of Minnesota where he runs the Medical Robotics and Devices Lab.
 
+# Lecture archive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7cqF2Y0rpwQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
