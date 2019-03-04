@@ -1,6 +1,6 @@
 ---
 title: "Protecting critical infrastructure to enhance cyber-security using optimization and analytics"
-tags: [relevant, tags]
+tags: [optimization, analytics, industrial engineering, operations research, cyber-security, infrastructure]
 category: lecture
 permalink: 2019/03/protecting-critical-infrastructure-cyber-security
 post_author: Dr. Laura Albert
