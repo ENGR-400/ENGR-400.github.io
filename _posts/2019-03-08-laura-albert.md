@@ -25,3 +25,6 @@ In this talk, Professor Laura Albert will discuss how to protect critical inform
 
 Dr. Laura Albert is the Assistant Dean for Graduate Affairs in the College of Engineering and an Associate Professor of Industrial & Systems Engineering at the University of Wisconsin-Madison. Her research interests are in operations research with a particular focus on applications in homeland security and emergency response. She writes the blog “Punk Rock Operations Research.”
 
+# Lecture archive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1bDHYTmkSJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
