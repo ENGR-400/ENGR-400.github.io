@@ -1,8 +1,8 @@
 ---
-title: "Talk title goes here"
-tags: [relevant, tags]
+title: "Quantitative v̶s̶ & Qualitative – The balance of identifying the right solution"
+tags: [design, product development, qualitative, quantitative]
 category: lecture
-permalink: 2019/03/talk-title-goes-here
+permalink: 2019/03/quantitative-qualitative-balance
 post_author: Katie Thompson and Luke Stauss
 author_url: https://qbp.com/
 layout: post
@@ -10,7 +10,7 @@ comments: true
 ---
 
 <!-- This is for your headshot. -->
-<img align="right" width="250px" src="/images/190322-thompsonstauss.jpg" alt="people"/>  
+<img align="right" width="250px" src="/images/190322-thompson.jpg" alt="people"/>  
 
 10:10 am  
 322 Fryklund Hall  
@@ -19,13 +19,11 @@ comments: true
 
 # Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est lacus, accumsan varius nibh nec, tincidunt feugiat enim. Quisque porttitor quis orci ut varius. Donec mi odio, faucibus vel augue vel, facilisis ultrices nunc. Phasellus et tellus vel dolor scelerisque auctor. Donec malesuada consectetur ligula, at eleifend elit mattis id. Aenean vel neque eget diam venenatis accumsan eu quis dolor. Nullam vel maximus mauris. Suspendisse a fringilla dui, vitae laoreet turpis.
+Product development is often seen and demonstrated in a clear, linear, clean process, with the mythical one right solution that wins out at the end.  However, truth be told – product development isn’t always clean and easy, and sometimes the consumer experience does not match data.  With the development process both qualitative and quantitative analysis plays important and sometimes counterintuitive roles in the process.  Within this talk we will learn how Industrial Designers and Engineers balance the need and usage of qualitative and quantitative testing tools in order to achieve the final solution. 
 
 # Bio
+## Katie Thompson
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec est lacus, accumsan varius nibh nec, tincidunt feugiat enim. Quisque porttitor quis orci ut varius. Donec mi odio, faucibus vel augue vel, facilisis ultrices nunc. Phasellus et tellus vel dolor scelerisque auctor. Donec malesuada consectetur ligula, at eleifend elit mattis id. Aenean vel neque eget diam venenatis accumsan eu quis dolor. Nullam vel maximus mauris. Suspendisse a fringilla dui, vitae laoreet turpis.
+Katie Thompson is the Industrial Design Manager at Quality Bicycle Products in Bloomington, MN and a 2007 UW-Stout graduate.  Katie has spent over the last decade working in Product Development on a diverse set of product types ranging from medical, architectural lighting, consumer electronics, to spending the last seven years merging personal passion with profession within the bicycle industry.  
 
-You may add any images you like here. You may also add any links you like below (personal/lab website, relevant research articles, etc.).
-
-![Image example](/images/image.jpg)
 
