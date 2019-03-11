@@ -1,5 +1,5 @@
 ---
-title: "Quantitative v̶s̶ & Qualitative – The balance of identifying the right solution"
+title: "Quantitative <s>vs</s> & Qualitative – The balance of identifying the right solution"
 tags: [design, product development, qualitative, quantitative]
 category: lecture
 permalink: 2019/03/quantitative-qualitative-balance
