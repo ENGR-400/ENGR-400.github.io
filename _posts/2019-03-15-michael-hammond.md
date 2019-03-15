@@ -25,3 +25,6 @@ The traditional roles of industrial designers and mechanical engineers has chang
 
 Michael Hammond is Director of Industrial Design at Design Concepts in Madison, WI  and a 2000 UW-Stout graduate. With nearly twenty years of professional product design and development experience, he has worked on more than 250 consumer products for  Panasonic, Mattel, Trek Bicycles and others.  Michael values the process of design:    moving ideas forward from the intangible front end to more concrete solutions that get team’s excited about and that their users will value.
 
+# Lecture archive
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v7iecW0bb5s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
