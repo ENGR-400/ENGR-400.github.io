@@ -10,7 +10,7 @@ comments: true
 ---
 
 <!-- This is for your headshot. -->
-<img align="right" width="250px" src="/images/190322-thompson.jpg" alt="people"/>  
+<!-- <img align="right" width="250px" src="/images/190322-thompson.jpg" alt="people"/>  -->
 
 10:10 am  
 322 Fryklund Hall  
