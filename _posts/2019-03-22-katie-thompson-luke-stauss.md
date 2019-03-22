@@ -3,7 +3,7 @@ title: "Quantitative <s>vs</s> & Qualitative – The balance of identifying the 
 tags: [design, product development, qualitative, quantitative]
 category: lecture
 permalink: 2019/03/quantitative-qualitative-balance
-post_author: Katie Thompson and Luke Stauss
+post_author: Katie Thompson and Luke Strauss
 author_url: https://qbp.com/
 layout: post
 comments: true
@@ -26,6 +26,10 @@ Product development is often seen and demonstrated in a clear, linear, clean pro
 
 Katie Thompson is the Industrial Design Manager at Quality Bicycle Products in Bloomington, MN and a 2007 UW-Stout graduate.  Katie has spent over the last decade working in Product Development on a diverse set of product types ranging from medical, architectural lighting, consumer electronics, to spending the last seven years merging personal passion with profession within the bicycle industry.  
 
-## Luke Stauss
+## Luke Strauss
 
 Luke Strauss is the Engineering Manager at Quality Bicycle Products (QBP) in Bloomington, MN. He holds a Masters from Cornell University (2011) and a Bachelors from Middlebury College (2007). Prior to joining QBP in 2014, Luke has engineered products in the automotive, energy-utility, and environmental remediation industries.
+
+# Lecture archive
+*Katie Thompson was unable to present due to an unexpected work issue.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4hSnQZYg5nY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
