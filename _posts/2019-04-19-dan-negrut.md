@@ -29,3 +29,5 @@ This talk will focus on how a Lagrangian perspective on dynamics is used to capt
 
 Dan Negrut received his Mechanical Engineering Ph.D. in 1998 from the University of Iowa. He leads the [Simulation-Based Engineering Lab](http://sbel.wisc.edu) at UW-Madison. The lab’s projects focus on high performance computing, computational dynamics, terramechanics, robotics, autonomous vehicles, and fluid-solid interaction problems. Dr. Negrut received in 2009 a National Science Foundation Career Award. Since 2010 he is an NVIDIA CUDA Fellow.
 
+# Lecture archive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbP-IsE9KrI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
