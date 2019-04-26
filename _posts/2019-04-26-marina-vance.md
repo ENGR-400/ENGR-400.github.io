@@ -27,3 +27,5 @@ This talk will focus on an investigation of aerosols emissions from the operatio
 
 Dr. Marina Vance is an Assistant Professor in Mechanical Engineering and Environmental Engineering at the University of Colorado Boulder. Her research is focused on applying engineering tools to better understand and minimize human exposure to novel environmental contaminants, especially nanoparticles or ultrafine aerosols, from everyday activities and the use of consumer products.
 
+# Lecture archive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xpsejyU5OmU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
