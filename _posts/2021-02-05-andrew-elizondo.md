@@ -23,4 +23,4 @@ Structural Dynamics is a field by which one must use both a macro and micro pers
 
 # Bio
 
-Andrew Elizondo is the Process Lead within the Structural Dynamics group at United Launch Alliance. He holds a Bachelors degree in Engineering Mechanics and Aeronautics at the University of Wisconsin-Madison. Andrew has spent the last 11 years working coupled loads analysis on the Atlas, Delta, and Vulcan launch vehicles, including: model correlation, loads generation, and process improvement. 
+Andrew Elizondo is the Process Lead within the Structural Dynamics group at United Launch Alliance. He holds a Bachelors degree in Engineering Mechanics and Aeronautics from the University of Wisconsin-Madison. Andrew has spent the last 11 years working coupled loads analysis on the Atlas, Delta, and Vulcan launch vehicles, including: model correlation, loads generation, and process improvement. 
