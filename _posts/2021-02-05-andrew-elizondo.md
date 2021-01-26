@@ -9,8 +9,8 @@ layout: post
 comments: true
 ---
 
-<!-- This is for your headshot. 
-<img align="right" width="250px" src="/images/190101-lastname.jpg" alt="Name Lastname"/>  -->
+<!-- This is for your headshot. -->
+<img align="right" width="250px" src="/images/210205-elizondo.jpg" alt="Andrew Elizondo"/> 
 
 10:10 am  
 Microsoft Teams  
