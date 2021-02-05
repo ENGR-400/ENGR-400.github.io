@@ -2,9 +2,9 @@
 title: "Empathy in engineering"
 tags: [empathy, design, communication]
 category: lecture
-permalink: 2021/02/empathy-in-engineering
+permalink: 2021/03/empathy-in-engineering
 post_author: Andrew Elizondo
-author_url: https://engr-400.github.io/2021/02/empathy-in-engineering
+author_url: https://engr-400.github.io/2021/03/empathy-in-engineering
 layout: post
 comments: true
 ---
