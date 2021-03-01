@@ -1,6 +1,6 @@
 ---
 title: "3M Company, Corporate R&D, and My Career in Specialty Optical Coatings"
-tags: [optical coatings, research and development, industry, coatings, materials]
+tags: [optical coatings, research and development, industry, coatings, materials, 3M]
 category: lecture
 permalink: 2021/03/3M-RD-Optical-Coatings
 post_author: Dr. Daniel Schmidt
