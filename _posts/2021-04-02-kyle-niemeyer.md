@@ -24,3 +24,6 @@ Accurate simulations of combustion and reacting fluid flows require complex, mul
 # Bio
 
 Dr. Kyle Niemeyer is an Associate Professor in the School of Mechanical, Industrial, and Manufacturing Engineering at Oregon State University. He received his PhD in Mechanical Engineering from Case Western Reserve University in 2013. Dr. Niemeyer’s research focuses on computational modeling of reacting and non-reacting fluid flows, with a particular interest in numerical methods and high-performance computing.
+
+# Lecture archive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BcYxT53Xtso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
