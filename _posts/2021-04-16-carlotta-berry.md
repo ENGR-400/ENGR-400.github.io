@@ -24,3 +24,6 @@ Robotics is the study of robots interacting in the physical world through  sensi
 # Bio
 
 Carlotta Berry is a Professor in Electrical and Computer Engineering at Rose-Hulman Institute of Technology. At Rose, she worked with colleagues to create the multidisciplinary minor in robotics and Rose Building Undergraduate Diversity Program. Her research interests are in engineering education, robotics education and human-robot interaction.  She has several publications, grants, and service projects on robotics and diversifying STEM.
+
+# Lecture archive
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k3dIKwVWLyc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
